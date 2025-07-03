@@ -1,6 +1,6 @@
 {
     "name": "Ular Tangga",
-    "short_name": "UlarTangga",
+    "short_name": "Ludo Snake",
     "description": "Game Ular Tangga klasik sebagai Progressive Web App.",
     "start_url": ".",
     "display": "standalone",
